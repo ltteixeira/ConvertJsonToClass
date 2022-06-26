@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Jzno/e3USwPQ5mxYOz9EHyBhtBLfjUw6LfCuQrWZKVJa9QjVHTGFjwOMzSdSGBzRW067Tf/XR3g835tjej2kMg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Branco\\Desktop\\ConvertJsonToClass\\ConvertJsonToClass.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Branco\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

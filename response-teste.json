@@ -1,0 +1,144 @@
+{
+  "data": {
+    "cryptoCurrencyList": [
+      {
+        "id": 1,
+        "name": "Bitcoin",
+        "symbol": "BTC",
+        "slug": "bitcoin",
+        "tags": [
+          "mineable",
+          "pow",
+          "sha-256",
+          "multicoin-capital-portfolio",
+          "paradigm-portfolio"
+        ],
+        "cmcRank": 1,
+        "marketPairCount": 9090,
+        "circulatingSupply": 18939681.0,
+        "selfReportedCirculatingSupply": 0,
+        "totalSupply": 18939681.0,
+        "maxSupply": 2.1e7,
+        "isActive": 1,
+        "lastUpdated": "2022-01-25T17:02:00.000Z",
+        "dateAdded": "2013-04-28T00:00:00.000Z",
+        "quotes": [
+          {
+            "name": "USD",
+            "price": 36872.40909049647,
+            "volume24h": 29969650763.73323822,
+            "marketCap": 698351665875.50327342607,
+            "percentChange1h": 0.79985094,
+            "percentChange24h": 7.24176396,
+            "percentChange7d": -11.61146395,
+            "lastUpdated": "2022-01-25T17:02:00.000Z",
+            "percentChange30d": -26.70617595,
+            "percentChange60d": -32.19546933,
+            "percentChange90d": -37.48474697,
+            "fullyDilluttedMarketCap": 774320590900.43,
+            "marketCapByTotalSupply": 698351665875.50327342607,
+            "dominance": 42.0988,
+            "turnover": 0.04291484,
+            "ytdPriceChangePercentage": -22.678
+          }
+        ],
+        "isAudited": false
+      },
+      {
+        "id": 17510,
+        "name": "Rex Inu",
+        "symbol": "REX",
+        "slug": "rexinu",
+        "tags": [],
+        "cmcRank": 9240,
+        "marketPairCount": 1,
+        "circulatingSupply": 0e-8,
+        "selfReportedCirculatingSupply": 0.0,
+        "totalSupply": 10000000000.0,
+        "maxSupply": 1.0e10,
+        "isActive": 1,
+        "lastUpdated": "2022-01-25T17:02:00.000Z",
+        "dateAdded": "2022-01-20T10:43:59.000Z",
+        "quotes": [
+          {
+            "name": "USD",
+            "price": 0.000010777066951744565,
+            "volume24h": 0e-8,
+            "marketCap": 0e-32,
+            "percentChange1h": 0.97382619,
+            "percentChange24h": 8.56163189,
+            "percentChange7d": -90.87972107,
+            "lastUpdated": "2022-01-25T17:02:00.000Z",
+            "percentChange30d": -90.87972107,
+            "percentChange60d": -90.87972107,
+            "percentChange90d": -90.87972107,
+            "fullyDilluttedMarketCap": 107770.67,
+            "marketCapByTotalSupply": 107770.66951744565,
+            "dominance": 0.0,
+            "ytdPriceChangePercentage": 0.0
+          }
+        ],
+        "platform": {
+          "id": 1027,
+          "name": "Ethereum",
+          "symbol": "ETH",
+          "slug": "ethereum",
+          "token_address": "0x43690099a37976be3b385e134b8eca9bd3fdbbe0"
+        },
+        "isAudited": false
+      },
+      {
+        "id": 17576,
+        "name": "DeSpace",
+        "symbol": "DSE",
+        "slug": "despace",
+        "tags": [],
+        "cmcRank": 9241,
+        "marketPairCount": 1,
+        "circulatingSupply": 0e-8,
+        "selfReportedCirculatingSupply": 1.8e10,
+        "totalSupply": 21000000000000.0,
+        "maxSupply": 2.1e13,
+        "isActive": 1,
+        "lastUpdated": "2022-01-25T17:02:00.000Z",
+        "dateAdded": "2022-01-24T03:52:01.000Z",
+        "quotes": [
+          {
+            "name": "USD",
+            "price": 0.000001940506218063916,
+            "volume24h": 0e-8,
+            "marketCap": 0e-32,
+            "percentChange1h": 0e-8,
+            "percentChange24h": -27.36504588,
+            "percentChange7d": -12.64328755,
+            "lastUpdated": "2022-01-25T17:02:00.000Z",
+            "percentChange30d": -12.64328755,
+            "percentChange60d": -12.64328755,
+            "percentChange90d": -12.64328755,
+            "fullyDilluttedMarketCap": 40750630.58,
+            "marketCapByTotalSupply": 40750630.579342236,
+            "dominance": 0.0,
+            "turnover": 0e-8,
+            "ytdPriceChangePercentage": 0.0
+          }
+        ],
+        "platform": {
+          "id": 1839,
+          "name": "Binance Smart Chain (BEP20)",
+          "symbol": "BNB",
+          "slug": "bnb",
+          "token_address": "0xd2f9b95370908cc2757ddeb4d0dddd29f1c40d69"
+        },
+        "isAudited": false
+      }
+    ],
+    "totalCount": "9241"
+  },
+  "status": {
+    "timestamp": "2022-01-25T17:03:46.691Z",
+    "error_code": "0",
+    "error_message": "SUCCESS",
+    "elapsed": "634",
+    "credit_count": 0
+  }
+}
